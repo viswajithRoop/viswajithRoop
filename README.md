@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viswajithRoop
 - 💻 I'm a junior software developer
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning react,sql..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @linkedin.com/in/viswajithroop/
 
