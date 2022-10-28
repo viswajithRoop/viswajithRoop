@@ -2,7 +2,8 @@
 - 💻 I'm a junior software developer
 - 🌱 I’m currently learning react,sql..
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [linkedin.com/in/viswajithroop/](url)
+- 📫 How to reach me [myLinkedIn.profile](www.linkedin.com/in/viswajithroop
+)
 
 <!---
 viswajithRoop/viswajithRoop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
